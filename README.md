@@ -1,1 +1,41 @@
-# Kolli_Sudeepa
+### Hey People!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px">
+This is **Kolli Sudeepa**. I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology. I am a programmer, student developer who builds web applications, bots, and Machine Learning models. 
+
+I believe that Knowledge is power. And in this way, I love to learn the breakthrough in technology and prepare myself professionally. People often call me noble, as it best describes me.
+
+#### `Something more!`
+I mostly involve in establishing effective relationships and gain technical insights. I am also inclined towards creative activities such as poetry, music, debate, etc.
+I'm the recipient of the `Google APAC WTM Scholarship 2020`.
+____________________________________________________________________________________________________________________________________
+
+#### **Connect with me**
+___________________________________________________________________________________________________________________________________
+[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
+[![Linkedin Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sudeepanoble/)]([https://www.linkedin.com/in/sudeepanoble/)
+[![Twitter Badge](http://img.shields.io/badge/-@i_sudeepa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_sudeepa)](https://twitter.com/i_sudeepa)
+[![Medium Badge](https://img.shields.io/badge/@iamsvedant-blue?style=social&logo=Medium&link=https://medium.com/@sudeepa.kolli)](https://medium.com/@sudeepa.kolli)
+[![Instagram Badge](https://img.shields.io/badge/Kolli%20SSudeepa-blue?style=social&logo=Instagram&link=https://www.instagram.com/i_noble.sudeepa/)](https://www.instagram.com/i_noble.sudeepa/)
+[![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)
+___________________________________________________________________________________________________________________________________
+- Also
+
+<a href=https://www.womentechmakers.com/>
+   <img src=https://img.shields.io/badge/Google_WTM-Scholar-brightgreen>
+</a>
+<a href=https://twitter.com/GDGVizag>
+   <img src=https://img.shields.io/badge/GDGVizag-Developing Team-red>
+</a>
+</br>
+<a href=https://www.girlscript.tech/home>
+   <img src=https://img.shields.io/badge/GirlScript_Vizag-Techinical_Team-brightgreen>
+</a>
+<a href=https://auth.geeksforgeeks.org/college/vignans-institute-of-information-technology-viit-visakhapatnam>
+   <img src=https://img.shields.io/badge/GeeksforGeeks-Campus_Mantri-brightgreen>
+</a>
+</br>
+<a href=https://www.linkedin.com/in/smartbridge-educational-services-6755ab119/>
+   <img src=https://img.shields.io/badge/SmartBridge-ML_Intern-brightgreen>
+</a>
+<a href=https://twitter.com/WTMVizag>
+   <img src=https://img.shields.io/badge/WTMVizag-Volunteer-brightgreen>
+</a>
