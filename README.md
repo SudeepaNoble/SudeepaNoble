@@ -23,7 +23,7 @@ ________________________________________________________________________________
    <img src=https://img.shields.io/badge/Google_WTM-Scholar-brightgreen>
 </a>
 <a href=https://twitter.com/GDGVizag>
-   <img src=https://img.shields.io/badge/GDGVizag-Developing_Team-red>
+   <img src=https://img.shields.io/badge/GDGVizag-Developing_Team-brightgreen>
 </a>
 </br>
 <a href=https://www.girlscript.tech/home>
