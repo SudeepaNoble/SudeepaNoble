@@ -6,17 +6,15 @@ I believe that Knowledge is power. And in this way, I love to learn the breakthr
 #### `Something more!`
 I mostly involve in establishing effective relationships and gain technical insights. I am also inclined towards creative activities such as poetry, music, debate, etc.
 I'm the recipient of the `Google APAC WTM Scholarship 2020`.
-____________________________________________________________________________________________________________________________________
 
-#### **Connect with me**
-___________________________________________________________________________________________________________________________________
+
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
 [![Linkedin Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sudeepanoble/)]([https://www.linkedin.com/in/sudeepanoble/)
 [![Twitter Badge](http://img.shields.io/badge/-@i_sudeepa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_sudeepa)](https://twitter.com/i_sudeepa)
 [![Medium Badge](https://img.shields.io/badge/@sudeepa-blue?style=social&logo=Medium&link=https://medium.com/@sudeepa.kolli)](https://medium.com/@sudeepa.kolli)
 [![Instagram Badge](https://img.shields.io/badge/Kolli%20Sudeepa-blue?style=social&logo=Instagram&link=https://www.instagram.com/i_noble.sudeepa/)](https://www.instagram.com/i_noble.sudeepa/)
 [![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)
-___________________________________________________________________________________________________________________________________
+
 - Also
 
 <a href=https://www.womentechmakers.com/>
