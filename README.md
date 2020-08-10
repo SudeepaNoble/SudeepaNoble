@@ -3,6 +3,8 @@ This is **Kolli Sudeepa**. I'm currently pursuing my BTech in the Computer Scien
 
 I believe that Knowledge is power. And in this way, I love to learn the breakthrough in technology and prepare myself professionally. People often call me `noble`, as it best describes me.
 
+`There is no lie in my fire!`
+
 #### `Something more!`
 I mostly involve in establishing effective relationships and gain technical insights. I am also inclined towards creative activities such as poetry, music, debate, etc.
 I'm the recipient of the `Google APAC WTM Scholarship 2020`.
