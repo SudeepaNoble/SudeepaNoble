@@ -38,4 +38,4 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
 </a>
 <a href=https://twitter.com/WTMVizag>
    <img src=https://img.shields.io/badge/WTMVizag-Volunteer-brightgreen>
-</a>
+</a> 
