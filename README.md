@@ -15,7 +15,7 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
 [![Twitter Badge](http://img.shields.io/badge/-@i_sudeepa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_sudeepa)](https://twitter.com/i_sudeepa)
 [![Medium Badge](https://img.shields.io/badge/@sudeepa-blue?style=social&logo=Medium&link=https://medium.com/@sudeepa.kolli)](https://medium.com/@sudeepa.kolli) 
 [![Instagram Badge](https://img.shields.io/badge/Kolli%20Sudeepa-bluestyle=social&logo=Instagram&link=https://www.instagram.com/i_noble.sudeepa/)](https://www.instagram.com/i_noble.sudeepa/)
-[![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)
+[![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli) 
 
 - And
 
