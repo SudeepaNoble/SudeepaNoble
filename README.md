@@ -19,7 +19,7 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
 
 - And
 
-<a href=https://www.womentechmakers.com/>
+<a href=https://www.womentechmakers.com/> 
    <img src=https://img.shields.io/badge/Google_WTM-Scholar-brightgreen>
 </a>
 <a href=https://twitter.com/GDGVizag>
