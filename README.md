@@ -1,5 +1,5 @@
 ### Hello People!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px"> 
-This is **Kolli Sudeepa**. I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology. I am a programmer, student developer who builds web applications, bots, and Machine Learning models.  
+This is **Kolli Sudeepa**.  I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology. I am a programmer, student developer who builds web applications, bots, and Machine Learning models.  
  
 I believe that Knowledge is power. And, I love to learn the breakthrough in technology and prepare myself professionally. People often call me `noble`, as it best describes me.
 
@@ -16,7 +16,7 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
 [![Medium Badge](https://img.shields.io/badge/@sudeepa-blue?style=social&logo=Medium&link=https://medium.com/@sudeepa.kolli)](https://medium.com/@sudeepa.kolli)  
 [![Instagram Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Instagram&link=https://www.instagram.com/i_noble.sudeepa/)](https://www.instagram.com/i_noble.sudeepa/)
 [![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)  
-
+  
 - And  
 
 <a href=https://dsc.community.dev/events/details/developer-student-clubs-vignans-institute-of-information-technology-presents-30daysofgooglecloud-intro/>
