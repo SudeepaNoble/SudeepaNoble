@@ -22,7 +22,7 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
 <a href=https://dsc.community.dev/events/details/developer-student-clubs-vignans-institute-of-information-technology-presents-30daysofgooglecloud-intro/>
    <img src=https://img.shields.io/badge/GoogleCloud-Facilitator-brightgreen>
 </a>
-<a href=https://dsc.community.dev/events/details/developer-student-clubs-vignans-institute-of-information-technology-presents-30daysofgooglecloud-intro/>
+<a href=https://dscviit2020.web.app/team/>
    <img src=https://img.shields.io/badge/PR-DSCVIIT-brightgreen>
 </a>
 <a href=https://twitter.com/GDGVizag>
