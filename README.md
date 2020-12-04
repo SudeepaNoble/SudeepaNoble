@@ -17,7 +17,7 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
 [![Instagram Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Instagram&link=https://www.instagram.com/i_noble.sudeepa/)](https://www.instagram.com/i_noble.sudeepa/)
 [![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)  
   
-- And     
+- And      
 
 <a href=https://dsc.community.dev/events/details/developer-student-clubs-vignans-institute-of-information-technology-presents-30daysofgooglecloud-intro/>
    <img src=https://img.shields.io/badge/GoogleCloud-Facilitator-brightgreen>
