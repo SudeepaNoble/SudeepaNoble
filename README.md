@@ -7,7 +7,7 @@ I believe that Knowledge is power. And, I love to learn the breakthrough in tech
  
 ####  `Something more!`  
 I mostly involve in establishing effective relationships and gain technical insights. I'm also inclined towards creative activities such as poetry, music, debate, etc.
-I'm the recipient of the `Google APAC WTM Scholarship 2020`.  
+I'm the recipient of the `Google APAC WTM Scholarship 2020`.   
 
 
 [![Github Badge](https://img.shields.io/badge/Sudeepa_noble-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
