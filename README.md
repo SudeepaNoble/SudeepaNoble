@@ -2,7 +2,7 @@
 This is **Kolli Sudeepa**.  I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology. I am a programmer, student developer who builds web applications, bots, and Machine Learning models.           
   
 I believe that Knowledge is power. And, I love to learn the breakthrough in technology and prepare myself professionally. People often call me `noble`, as it best describes me.
- 
+   
 `There is no lie in my fire!`          
   
 ####  `Something more!`  
