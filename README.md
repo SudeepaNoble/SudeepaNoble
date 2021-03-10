@@ -5,7 +5,6 @@ I believe that Knowledge is power. And, I love to learn the breakthrough in tech
    
 `There is no lie in my fire!`              
   
-####  
 I mostly involve in establishing effective relationships and gain technical insights. I'm also inclined towards creative activities such as poetry, music, debate, etc.
 I'm the recipient of the `Google APAC WTM Scholarship 2020`.   
       
