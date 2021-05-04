@@ -18,7 +18,7 @@ I'm the recipient of the `Google APAC WTM Scholarship 2020`.
   
 - And  
       
-<a
+<a href=https://sudeepanoble.live>
    <img src=https://img.shields.io/badge/DRDO-ResearchIntern-brightgreen>
 </a>
 <a href=https://dsc.community.dev/events/details/developer-student-clubs-vignans-institute-of-information-technology-presents-30daysofgooglecloud-intro/>
