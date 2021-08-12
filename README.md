@@ -3,7 +3,7 @@ This is **Kolli Sudeepa**.  I'm currently pursuing my BTech in the Computer Scie
 
 
 
-I'm the recipient of the `Google APAC WTM Scholarship 2020`.   
+I'm `Google APAC WTM Scholar'20`.   
       
 
 [![Github Badge](https://img.shields.io/badge/Sudeepa_noble-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
