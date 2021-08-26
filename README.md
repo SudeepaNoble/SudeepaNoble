@@ -11,4 +11,3 @@ I'm `Google APAC WTM Scholar'20`.
 [![Twitter Badge](https://img.shields.io/badge/-@i_sudeepa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_sudeepa)](https://twitter.com/i_sudeepa)
 [![Medium Badge](https://img.shields.io/badge/@sudeepa-blue?style=social&logo=Medium&link=https://medium.com/@sudeepa.kolli)](https://sudeepa-kolli.medium.com/)  
 [![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)   
-  
