@@ -2,7 +2,6 @@
 This is **Kolli Sudeepa**.  I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology. 
 
 
-
 I'm `Google APAC WTM Scholar'20`.   
       
 
