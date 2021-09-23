@@ -2,7 +2,7 @@
 This is **Kolli Sudeepa**.  I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology.
 
 
-I'm `Google APAC WTM Scholar'20, HPAIR'21`.   
+I'm `Google APAC WTM Scholar'20`, `HPAIR'21`.   
       
 
 [![Github Badge](https://img.shields.io/badge/Sudeepa_noble-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
