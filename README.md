@@ -1,5 +1,5 @@
 ### Hello People!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px"> 
-This is **Sudeepa Kolli**.  CS Senior, Vignan's Institute of Information Technology.
+This is **Sudeepa Kolli**, CS Senior, Vignan's Institute of Information Technology.
  
 
 I'm `Google APAC WTM Scholar'20`, `HPAIR'21`.   
