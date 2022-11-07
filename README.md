@@ -1,5 +1,5 @@
 ### Hello People!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px"> 
-This is **Sudeepa Kolli**, MEM grad student, Cornell'22.
+This is **Sudeepa Kolli**, MEM grad student, Cornell'23.
  
  `HPAIR'21`, `Google APAC WTM Scholar'20`.   
       
