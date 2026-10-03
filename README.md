@@ -4,8 +4,6 @@ I build software and products, working across engineering, product strategy, and
 
 [Portfolio](https://sudeepanoble.github.io/) · [LinkedIn](https://www.linkedin.com/in/sudeepanoble/) · [X](https://x.com/i_sudeepa) · [Medium](https://medium.com/@sudeepa-kolli) · [Email](mailto:sudeepanoble@gmail.com)
 
-## What I’m Building
-
 - **[SEWNA](https://www.joinsewna.com/)** — Making custom Indian clothing easier to discover and order. As a solo founder, I work across product, development, customer research, go-to-market, and operations.
 - **[Before You Buy](https://before-you-buy-ten.vercel.app/)** — An AI decision assistant that helps people think through purchases and reduce impulse buying.
 - **Mūlam** — A personal writing assistant that learns from my past writing and helps turn rough ideas into drafts in my own voice. Currently in development.
