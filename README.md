@@ -1,7 +1,25 @@
-### Hello People!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px"> 
-This is **Sudeepa Kolli**, MEM grad student, Cornell'23.
- 
- `HPAIR'21`, `Google APAC WTM Scholar'20`.   
+# Sudeepa Kolli
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeepanoble/) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.instagram.com/sudeepasgram/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_noble.sudeepa/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sudeepa-kolli)
-      
+I build software and products, working across engineering, product strategy, and customer problems. Previously, I built enterprise software for government agencies across the United States. Today, I’m building my own products and exploring how AI can make everyday decisions and creative work more useful.
+
+[Portfolio](https://sudeepanoble.github.io/) · [LinkedIn](https://www.linkedin.com/in/sudeepanoble/) · [X](https://x.com/i_sudeepa) · [Medium](https://medium.com/@sudeepa-kolli) · [Email](mailto:sudeepanoble@gmail.com)
+
+## What I’m Building
+
+- **[SEWNA](https://www.joinsewna.com/)** — Making custom Indian clothing easier to discover and order. As a solo founder, I work across product, development, customer research, go-to-market, and operations.
+- **[Before You Buy](https://before-you-buy-ten.vercel.app/)** — An AI decision assistant that helps people think through purchases and reduce impulse buying.
+- **Mūlam** — A personal writing assistant that learns from my past writing and helps turn rough ideas into drafts in my own voice. Currently in development.
+
+## Background
+
+Cornell University · Master of Engineering Management, Class of 2023
+
+Google APAC Women Techmakers Scholar, 2020 · HPAIR, 2021
+
+I also write about work, creativity, life choices, and graduate school. You can find my articles and selected press mentions on my [portfolio](https://sudeepanoble.github.io/writing/).
+
+## Let’s Connect
+
+I’m open to collaborations, freelance projects, and interesting problems I can help solve. Reach me at [sudeepanoble@gmail.com](mailto:sudeepanoble@gmail.com).
+
+> How much of who we become is shaped by what we choose to explore?
